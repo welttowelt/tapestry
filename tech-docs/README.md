@@ -6,9 +6,9 @@ This directory organizes the technical documentation under development for Proje
 | :-------- | :---------- |
 | [`architecture/`](architecture/README.md) | TVA methodology, phased outputs (1–5), architectural options analysis, ADRs, diagrams — **see [Architecture documents](#architecture-documents)** |
 | [`governance/`](governance/README.md) | Anti-capture principle and governance design |
-| [`work-groups/`](work-groups/README.md) | Lifecycle work-group charters for data governance, base training, sovereign alignment, evaluation/certification, security/privacy, infrastructure, deployment, and governance participation |
 | [`strategic-plan/`](strategic-plan/README.md) | Overall strategy for execution |
 | [`reference/`](reference/README.md) | Reference docs (e.g. training paradigms, deployment and usage material) |
+| [`work-groups/`](work-groups/README.md) | Lifecycle work-group charters for data governance, base training, sovereign alignment, evaluation/certification, security/privacy, infrastructure, deployment, and governance participation (subject to change) |
 
 ## Architecture documents
 
